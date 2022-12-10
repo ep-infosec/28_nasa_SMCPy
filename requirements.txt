@@ -1,0 +1,9 @@
+h5py
+matplotlib
+numpy
+pandas
+pytest
+pytest-mock
+scipy
+seaborn
+tqdm
